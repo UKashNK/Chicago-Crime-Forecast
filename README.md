@@ -28,3 +28,15 @@ Theft is predicted to have more than 8 times the number of criminal counts than 
 This is further illustrated by the widely varried percentage changes in the 6 month forecasts.
 - **Theft** is predicted to increase by **44.74%**
 - **Narcotics** are expected to uncrease by **2.60%**
+  
+## Tableau 
+
+**Screenshot**
+
+<img width="687" alt="main_dash" src="https://github.com/UKashNK/Chicago-Crime-Forecast/assets/161112989/e495adb6-465a-415c-ae64-5abc32c5b7c8">
+
+<img width="693" alt="forecast_dash" src="https://github.com/UKashNK/Chicago-Crime-Forecast/assets/161112989/8b10ae2c-5d50-4947-9a9d-7f436162cd8a">
+
+
+**LINK**
+https://public.tableau.com/app/profile/ukasha.ndugwa/viz/ChicagoCrimeDashboards/MainDashboard
